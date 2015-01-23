@@ -7,7 +7,7 @@ Il expérimente différentes idées, et les partage avec vous !
 Vous pouvez également les partager avec lui, les proposer et il les testera et les acceptera sur sa page, dans GitHub ! :-)
 
 Lien vers la page qui centralise tout
-Liens vers les scénarios dans GitHub :
+Liens vers les scénarios dans GitHub :<br />
 - <br />
 - <br />
 - <br />
