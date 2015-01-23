@@ -8,6 +8,6 @@ Vous pouvez également les partager avec lui, les proposer et il les testera et 
 
 Lien vers la page qui centralise tout
 Liens vers les scénarios dans GitHub :<br />
-- [(30 minutes) Créer votre blog wordpress](https://github.com/JohnStory/johnAzureLabs/blob/master/Labs/Cr%C3%A9er%20son%20blog%20wordpress/creerblogwordpress.md](https://github.com/JohnStory/johnAzureLabs/blob/master/Labs/Cr%C3%A9er%20son%20blog%20wordpress/creerblogwordpress.md)
+- [(30 minutes) Créer votre blog wordpress](https://github.com/JohnStory/johnAzureLabs/blob/master/Labs/Cr%C3%A9er%20son%20blog%20wordpress/creerblogwordpress.md]
 - à venir
 - à venir
